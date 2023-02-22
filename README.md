@@ -1,2 +1,2 @@
 # Data-Science-Competitions
-Kaggle, Zindi Africa and more.
+Competitions I attended so far, in Kaggle and Zindi Africa.
