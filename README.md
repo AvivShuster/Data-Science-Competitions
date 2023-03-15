@@ -3,6 +3,7 @@
 Competitions I attended so far, in Kaggle and Zindi Africa:
 1. Tanzania Tourism Prediction: https://zindi.africa/competitions/tanzania-tourism-prediction
 2. Spaceship Titanic: https://www.kaggle.com/competitions/spaceship-titanic
+3. RSNA Pneumonia Detection: https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge
 
 EDA + ML implementation on Known Datasets:
 
